@@ -357,4 +357,20 @@ export default [
     org_type: "mentalWellness",
     requirements: null,
   },
+  {
+    name: "Ali Forney Drop In Center",
+    address: "321 W 125th St, New York, NY 10027",
+    borough: "Manhattan",
+    description:
+      "Provides Initial Intake Support; Medical Checkup, Psychiatric Evaluation, HIV Counseling and Testing, Medicaid Enrollment , Warm Meals, Hot Showers, and 24 Hour access to services. It terms of ongoing support, it includes Group Therapy, Mental Health Counseling, Support Groups, Workshops, Continued Medical Care, Case Management, Recreational Activities that provide structure and focus, Prevention & Treatment adherence Counseling, and Mental Health groups & Support Counseling",
+    url: "https://www.aliforneycenter.org/",
+    specialty: "LGBTQIA+",
+    age_lower: 16,
+    age_upper: 24,
+    email: null,
+    contact_number: "(212) 206-0574",
+    org_type: "mentalWellness",
+    requirements: null,
+  
+  },
 ];
