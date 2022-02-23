@@ -359,4 +359,20 @@ export default [
     requirements: null,
     org_type: "professionalServices",
   },
+   {
+    name: "All Star Code Summer Institute",
+    address: "85 Broad St FL 28 New York, NY 10004-2783",
+    borough: "Manhattan",
+    description:
+      "All Star Code prepares young Black and Latino men for tech careers by providing mentorship, industry exposure, and training in Computer Science. Their flagship program, the Summer Intensive (SI), is a FREE six week program designed to give high school boys the access and exposure they need to become successful tech entrepreneurs. Through real-world experiences at top tech companies, and hands-on, project-based learning, All Stars finish the program with both coding skills and an entrepreneurial mindset.",
+    url: "https://allstarcodeorg.github.io/apply/#",
+    specialty: "High School",
+    age_lower: 14,
+    age_upper: 19,
+    email: "admissions@allstarcode.org",
+    contact_number: null,
+    requirements:
+      "High School(not required to be enrolled in school) age; Male;Preference given to Black & Latino applicants; No coding experience necessary; Only 40 students accepted per year.",
+    org_type: "professionalServices",
+  },
 ];
